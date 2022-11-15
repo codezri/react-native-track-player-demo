@@ -17,7 +17,7 @@ import TrackPlayer, {
   State
 } from 'react-native-track-player';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import { setupPlayer, addTracks } from './trackPlayerService';
+import { setupPlayer, addTracks } from './trackPlayerServices';
 
 function Header() {
   const [info, setInfo] = useState({});
