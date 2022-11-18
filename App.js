@@ -46,7 +46,7 @@ function Header() {
 }
 
 function TrackProgress() {
-  const { position, duration } = useProgress();
+  const { position, duration } = useProgress(200);
 
   function format(seconds) {
     let mins = (parseInt(seconds / 60)).toString().padStart(2, '0');
