@@ -1,6 +1,9 @@
 # react-native-track-player-demo
 A music track player app with a pre-defined playlist
 
+## Preview
+
+![](media/preview-android.gif)
 
 ## How to run the app?
 
@@ -20,7 +23,7 @@ npx react-native run-ios
 
 ## Credits
 
-Contains three royalty free music tracks from [Pixabay](https://pixabay.com/music/). Credit goes to original music track authors (Filenames contain Pixabay track identifiers). 
+Contains three royalty free music tracks from [Pixabay](https://pixabay.com/music/). Credit goes to original music track authors (Filenames contain Pixabay track identifiers).
 
 ## License
 
